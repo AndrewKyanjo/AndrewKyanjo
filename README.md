@@ -2,24 +2,8 @@
 <h3 align="center">I'm a fullstack developer with a growing focus on database technologies, data analysis, and data science. Currently expanding my skills into these areas, with an eye on data engineering in the future. I enjoy building complete web applications and deriving insights from data.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewkyanjo&label=Profile%20views&color=0e75b6&style=flat" alt="andrewkyanjo" /> </p>
-
-<!-- <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=andrewkyanjo" alt="trophy">
-  </a>
-</p> -->
 <h2> MY STATS </h2>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=andrewkyanjo&" alt="andrewkyanjo" /></p>
-
- 
-- 🔭 I’m currently working on **Real-Time Financial Analytics Platform**
-
-- 🌱 I’m currently learning **Database technologies, Data Analysis, Data Science, and preparing for Data Engineering**
-
-- 👯 I’m looking to collaborate on **Enterprise ERP Microservices Refactor**
-
-- 🤝 I’m looking for help with **Algorithmic Trading System with Backtesting Framework**
-
 - 📫 How to reach me **kyanjoa5@gmail.com**
 
 - ⚡ Fun fact **I think I am funny – but you’ll have to judge that yourself lollllllllllll**
